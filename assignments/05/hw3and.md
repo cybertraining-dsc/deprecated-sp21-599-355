@@ -8,4 +8,4 @@
 	- [pythonprogramming.net](https://pythonprogramming.net/chatbot-deep-learning-python-tensorflow/)
 	- [CodeSpeedy](https://www.codespeedy.com/chatbot-using-deep-learning-in-python/)
 
--more to be found
+- more to be found
