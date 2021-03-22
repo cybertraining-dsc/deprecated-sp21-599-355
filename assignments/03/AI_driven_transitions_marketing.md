@@ -15,11 +15,11 @@ being a common tool in modern AI. Artificial neural networks are
 commonly used for classification prediction based on existing data and
 are useful for finding commonalities throughout subgroups of a
 company’s consumers. The process of clustering smaller groups from a
-larger population is called “Market segmentation” (Chattopadhyay et
-al.). This process allows marketers to broaden their reach for
-services while still being useful to as many people as possible. It
-can also help identify particular needs within a specific subgroup to
-ensure they are met to the same standard.
+larger population is called “Market segmentation” [^1]. This process 
+allows marketers to broaden their reach for services while still being 
+useful to as many people as possible. It can also help identify 
+particular needs within a specific subgroup to ensure they are met 
+to the same standard.
 
 A widely common marketing practice is the collection of data to show
 targeted content to users. This ranges from targeted ads on social
@@ -39,8 +39,8 @@ AI to provide personalized interactions with each specific individual.
 An increasing number of websites have online chatbots that prompt
 people when entering their page, AI is being used to enhance their
 experience, increasing engagement with the website by giving instant
-access to customer support at any time and allows the AI to collect
-more data and suggest content specific to the individual directly.
+access to customer support at any time [^2] and allows the AI to collect
+more data and suggest content specific to the individual directly. [^3]
 
 Although the goal of AI usage is to increase a personalized experience
 to consumers theres a question about whether personalized content is
@@ -49,7 +49,7 @@ the increase in AI-consumer interaction means there is bound to be
 oversights. for instance, perhaps the AI works too well at predicting
 customer habits. A popular story from 2012 notes that a target
 algorithm was able to “Figure out a Teen Girl was Pregnant Before Her
-Father Did” (Forbes, 2012). A Forbes article from 2012 tells the story
+Father Did” [^4]. A Forbes article from 2012 tells the story
 of a man going into a target and complaining about his teen aged
 daughter receiving coupons and advertisements in the mail, seemingly
 targeted towards a pregnant woman. It’s later found that the Target
@@ -66,21 +66,17 @@ financial opportunities from personalization, participants that had
 been exposed to personalized marketing rated it more effective than
 those without. In continuation, after the study over 75% of
 participants said they were likely to increase the use of content
-personalization (Demand Metric, 2016). Works cited
+personalization [^5]
 
 ## Refernces
+ [^1] Maanojit Chattopadhyay et al, Application of neural network in market segmentation: A review on recent trends, https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2073339
 
-1. “EWorkshop: 2016 Content Personalization Benchmark Report Webinar.”
-   EWorkshop: 2016 Content Personalization Benchmark Report Webinar |
-   Demand Metric, Mar. 2016,
-   <www.demandmetric.com/content/eworkshop-2016-content-personalization-benchmark-report-webinar>.
+ [^2] Korola Karlson, 8 Ways Intelligent Marketers Use Artificial Intelligence, https://contentmarketinginstitute.com/2017/08/marketers-use-artificial-intelligence/
 
-2. Gaskin Editor, Caoimhe, et al. “Chatbot Marketing: The Modern
-   Marketer's Most Powerful Tool.” Inside Intercom, 16 Feb. 2021,
-   <www.intercom.com/blog/chatbot-marketing/>.
+ [^3] Orinna Weaver, Chatbot marketing: the marketer that's always on, [Online Resource] https://www.intercom.com/blog/chatbot-marketing/
 
-3. Hill, Kashmir. “How Target Figured Out A Teen Girl Was Pregnant Before
-   Her Father Did.” Forbes, Forbes Magazine, 31 Mar. 2012, <www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/?sh=148543466668>.
+ [^4] Kashmir Hill, Forbes: How Target Figured Out A Teen Girl Was Pregnant Before Her Father Did, https://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/?sh=32f5ea4b6668
 
-4. Karlson, Karola. “8 Ways Intelligent Marketers Use Artificial
-   Intelligence.” Content Marketing Institute, 13 Aug. 2017,   <contentmarketinginstitute.com/2017/08/marketers-use-artificial-intelligence/>.
+ [^5] EWorkshop: 2016 Content Personalization Benchmark Report Webinar, [Online Resource] htps://www.demandmetric.com/content/eworkshop-2016-content-personalization-benchmark-report-webinar
+
+
