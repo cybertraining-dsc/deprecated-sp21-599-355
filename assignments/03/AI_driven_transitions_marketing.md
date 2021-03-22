@@ -69,14 +69,14 @@ participants said they were likely to increase the use of content
 personalization [^5]
 
 ## Refernces
- [^1] Maanojit Chattopadhyay et al, Application of neural network in market segmentation: A review on recent trends, https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2073339
+ [^1]: Maanojit Chattopadhyay et al, Application of neural network in market segmentation: A review on recent trends, [Online Resource] https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2073339
 
- [^2] Korola Karlson, 8 Ways Intelligent Marketers Use Artificial Intelligence, https://contentmarketinginstitute.com/2017/08/marketers-use-artificial-intelligence/
+ [^2]: Korola Karlson, 8 Ways Intelligent Marketers Use Artificial Intelligence, [Online Resource] https://contentmarketinginstitute.com/2017/08/marketers-use-artificial-intelligence/
 
- [^3] Orinna Weaver, Chatbot marketing: the marketer that's always on, [Online Resource] https://www.intercom.com/blog/chatbot-marketing/
+ [^3]: Orinna Weaver, Chatbot marketing: the marketer that's always on, [Online Resource] https://www.intercom.com/blog/chatbot-marketing/
 
- [^4] Kashmir Hill, Forbes: How Target Figured Out A Teen Girl Was Pregnant Before Her Father Did, https://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/?sh=32f5ea4b6668
+ [^4]: Kashmir Hill, Forbes: How Target Figured Out A Teen Girl Was Pregnant Before Her Father Did, https://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/?sh=32f5ea4b6668
 
- [^5] EWorkshop: 2016 Content Personalization Benchmark Report Webinar, [Online Resource] htps://www.demandmetric.com/content/eworkshop-2016-content-personalization-benchmark-report-webinar
+ [^5]: EWorkshop: 2016 Content Personalization Benchmark Report Webinar, [Online Resource] htps://www.demandmetric.com/content/eworkshop-2016-content-personalization-benchmark-report-webinar
 
 
