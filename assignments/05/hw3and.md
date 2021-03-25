@@ -1,5 +1,12 @@
 # Add onto Homework3
 
+:o2: headlines not consitent
+
+:o2: empty lines are missing
+
+:oe: item indentation wrong
+
+
 ### To find (guided by hw6)
 
 * problem
