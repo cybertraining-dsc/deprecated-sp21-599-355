@@ -1,4 +1,4 @@
-# Add onto Homework3
+## Add onto Homework3
 
 :o2: headlines not consitent
 
@@ -7,34 +7,46 @@
 :o2: item indentation wrong
 
 
-### To find (guided by hw6)
+## To find (guided by hw6)
 
-* problem
-	* to do
+* problem proposal
+
+    * TODO
+
 * dataset
 * deep learning algorithm 
 * pre existing efforts
 * timeline 
-	* working on it 
+   
+    * TODO 
 
 1. Still doing chatbots. 
 
 2. Related links 
-	* [IBM general](https://www.ibm.com/watson/how-to-build-a-chatbot?p1=Search&p4=43700050370997997&p5=p&gclid=6f5c56912136199de13536c65c46ebd1&gclsrc=3p.ds&)
-		* philosophy of stuff
-	* [Towards Data Science](https://towardsdatascience.com/how-to-create-a-chatbot-with-python-deep-learning-in-less-than-an-hour-56a063bdfc44)
-		* simple chat bot- github code
-	* [CodeSpeedy](https://www.codespeedy.com/chatbot-using-deep-learning-in-python/)
-		* code
-		* mlp
-	* [Chatbots and rnn](https://towardsdatascience.com/personality-for-your-chatbot-with-recurrent-neural-networks-2038f7f34636)	
-		* rnn
-		* info
+   
+    * [IBM general](https://www.ibm.com/watson/how-to-build-a-chatbot?p1=Search&p4=43700050370997997&p5=p&gclid=6f5c56912136199de13536c65c46ebd1&gclsrc=3p.ds&)
 
-	* [Analytics insight](https://www.analyticsinsight.net/top-10-chatbot-datasets-assisting-in-ml-and-nlp-projects/#:~:text=The%20chatbot%20datasets%20are%20trained%20for%20machine%20learning,using%20several%20examples%20to%20solve%20the%20user%20query.)
-		* datasets
+        * philosophy of stuff
+
+    * [Towards Data Science](https://towardsdatascience.com/how-to-create-a-chatbot-with-python-deep-learning-in-less-than-an-hour-56a063bdfc44)
+
+        * simple chat bot- github code
+
+    * [CodeSpeedy](https://www.codespeedy.com/chatbot-using-deep-learning-in-python/)
+        * code
+        * mlp
+
+    * [Chatbots and rnn](https://towardsdatascience.com/personality-for-your-chatbot-with-recurrent-neural-networks-2038f7f34636)	
+
+	 * rnn
+	 * info
+
+    * [Analytics insight](https://www.analyticsinsight.net/top-10-chatbot-datasets-assisting-in-ml-and-nlp-projects/#:~:text=The%20chatbot%20datasets%20are%20trained%20for%20machine%20learning,using%20several%20examples%20to%20solve%20the%20user%20query.)
+		
+         * datasets
+
 3. Lectures
-	* Health and Medicine
-	* AI in banking 
-
-* more to be found
+   
+   * Health and Medicine
+   * AI in banking 
+ 
