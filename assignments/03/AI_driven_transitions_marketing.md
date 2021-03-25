@@ -1,5 +1,7 @@
 # AI Transitions in Consumer Marketing
 
+:o2: PDF not needed
+
 Anna Everett
 
 Artificial intelligence in customer service is a slowly integrating
