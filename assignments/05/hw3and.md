@@ -4,7 +4,7 @@
 
 :o2: empty lines are missing
 
-:oe: item indentation wrong
+:o2: item indentation wrong
 
 
 ### To find (guided by hw6)
