@@ -17,7 +17,7 @@ being a common tool in modern AI. Artificial neural networks are
 commonly used for classification prediction based on existing data and
 are useful for finding commonalities throughout subgroups of a
 company’s consumers. The process of clustering smaller groups from a
-larger population is called “Market segmentation” [^1]. This process 
+larger population is called " Market segmentation " [^1]. This process 
 allows marketers to broaden their reach for services while still being 
 useful to as many people as possible. It can also help identify 
 particular needs within a specific subgroup to ensure they are met 
@@ -50,8 +50,8 @@ actually better than general widespread content. In addition to this,
 the increase in AI-consumer interaction means there is bound to be
 oversights. for instance, perhaps the AI works too well at predicting
 customer habits. A popular story from 2012 notes that a target
-algorithm was able to “Figure out a Teen Girl was Pregnant Before Her
-Father Did” [^4]. A Forbes article from 2012 tells the story
+algorithm was able to "Figure out a Teen Girl was Pregnant Before Her
+Father Did" [^4]. A Forbes article from 2012 tells the story
 of a man going into a target and complaining about his teen aged
 daughter receiving coupons and advertisements in the mail, seemingly
 targeted towards a pregnant woman. It’s later found that the Target
