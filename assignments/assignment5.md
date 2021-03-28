@@ -11,9 +11,17 @@
 
 * problem proposal
 
-    * Due to the rise in use of AI within buisneses (?) a lot of what is being seen by the general publc is their use in customer service. A chatbot is a (software? ) that is able to communicate with humans in real time in response to quesitons of scentences. (chat bots are great bc they reduce the need for actual human resources in customer service, you dont have to pay them and the actual humans can be used for something else). However one (rising?) concern is about the comunication and interaction with the humans on the other end of the bot. While bots for customer service  
+[Some study its in the links somewhere] found that customer satisfaction is generally higher when a more personalized website experience is given. The retention rate was [in that same link], with [some number] of surveyed participants saying they project themselves using [personalized webstes?] in the future. 
 
-(Tests) such as the Turing test and (others like it) have tried to develop a way to classify if a machine passes for human enough. 
+Due to the rise of automation in buisnesses a lot of what is being seen by the general publc is their use of chat bots in customer service. A chatbot is a (software? ) that is able to communicate with humans in real time in response to quesitons or scentences. 
+
+(chat bots are great bc they reduce the need for actual human resources in customer service, you dont have to pay them and the actual humans can be used for something else). 
+
+However a concern for companies using chatbots is the comunication and interaction with the humans on the other end of the bot. While bots are convieneint because they don't need to have off hours, making cusomer service available 24/7, most bots are limited to answering simple questions with general answers or solutions. 
+
+Not only that, few chat bots have the communication capabilites needed to give a personalized customer experience that a human agent can.
+
+In comparison, live chat services allow for easier communication and are deemed better equipped to handle more complex pnd in depth problems or questions. Both factors contributing to the personalized customer experience. 
 
 
 * dataset
@@ -26,7 +34,13 @@
 1. Still doing chatbots. 
 
 2. Related links 
-   
+    
+    * [Chat Bot stats] (https://www.superoffice.com/blog/live-chat-statistics/) 
+
+    * [Chat bot stats] (https://acquire.io/blog/chatbot-vs-live-chat/)
+
+    * [Stats for chat bots] (https://www.forbes.com/sites/gilpress/2019/10/02/ai-stats-news-86-of-consumers-prefer-to-interact-with-a-human-agent-rather-than-a-chatbot/?sh=1f41f4662d3b)
+
     * [IBM general](https://www.ibm.com/watson/how-to-build-a-chatbot?p1=Search&p4=43700050370997997&p5=p&gclid=6f5c56912136199de13536c65c46ebd1&gclsrc=3p.ds&)
 
         * philosophy of stuff
