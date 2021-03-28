@@ -1,4 +1,4 @@
-# Project: Chat bots in customer service.
+# Project: Chat Bots in Customer Service.
 
 [![Check Report](https://github.com/cybertraining-dsc/sp21-599-355/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/sp21-599-355/actions)
 [![Status](https://github.com/cybertraining-dsc/sp21-599-355/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/sp21-599-355/actions)
@@ -28,6 +28,24 @@ Please not ethat an up to date version of these instructions is available at
 * <https://github.com/cybertraining-dsc/hid-example/blob/main/project/index.md>
 
 Here comes a convincing introduction to the problem
+
+
+~~Some study its in the links somewhere i will fix it when i find it~~ found that customer satisfaction is generally higher when a more personalized website experience is given.
+
+The retention rate was ~in that same link~, with ~some number]~ of surveyed participants saying they project themselves using [personalized webstes?] in the future [^1].
+
+
+Due to the rise of automation in buisnesses a lot of what is being seen by the general publc is their use of chat bots in customer service. A chatbot is a ~~software?~~ that is able to communicate with humans in real time in response to quesitons or scentences [^2].
+
+~~chat bots are great bc they reduce the need for actual human resources in customer service, you dont have to pay them and the actual humans can be used for something else.~~ 
+
+However a concern for companies using chatbots is the comunication and interaction with the humans on the other end of the bot. While bots are convieneint because they don't need to have off hours, making cusomer service available 24/7, most bots are limited to answering simple questions with general answers or solutions. 
+
+Not only that, few chat bots have the communication capabilites needed to give a personalized customer experience that a human agent can.
+
+In comparison, live chat services allow for easier communication and are deemed better equipped to handle more complex pnd in depth problems or questions. Both factors contributing to the personalized customer experience. 
+
+
 
 ## 2. Report Format
 
