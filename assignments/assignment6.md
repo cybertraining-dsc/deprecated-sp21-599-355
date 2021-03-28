@@ -9,9 +9,9 @@
     * TODO - I don't know how to make a reasonable timeline.
 
         * 5 weeks from this submission the whole thing is due
-	* I'm going to be really confused for most of it 
-	* A working neural network should exist by 4/25
-	* Completed report should exist by 5/2
+        * I'm going to be really confused for most of it 
+        * A working neural network should exist by 4/25
+        * Completed report should exist by 5/2
 
 
 I am using a recurrent neural network and encoder to create a customer service chat bot. The goal of this project is that once trained the neural network will be able to intelligently respond to questions given to it with robustness in its ability to recognize common spelling errors and slang. 
