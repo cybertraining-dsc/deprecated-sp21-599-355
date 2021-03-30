@@ -18,8 +18,7 @@ I am using a recurrent neural network and encoder to create a customer service c
 
 The dataset I am using is from Kaggle as linked below. The dataset is from a variety of companies that provide support via twitter and contains the following: Tweet id, authorid, if the tweet is "inbound" to a company, time sent, content, ids of tweets that are responses, the id of the tweet that it is in response to. 
 
-* [twitter support dataset](https://www.kaggle.com/rtatman/ubuntu-dialogue-corpus)
-
+* [twitter support dataset](https://www.kaggle.com/thoughtvector/customer-support-on-twitter/code)
 There are a lot of "how-to" articles about making chat bots and users of datasets on kaggle can upload code using that dataset, so that will be a good place to start. 
 
 * [IBM general](https://www.ibm.com/watson/how-to-build-a-chatbot?p1=Search&p4=43700050370997997&p5=p&gclid=6f5c56912136199de13536c65c46ebd1&gclsrc=3p.ds&)
