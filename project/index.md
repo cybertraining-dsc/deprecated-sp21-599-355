@@ -1,6 +1,6 @@
 # Project: Chat Bots in Customer Service.
 
-* :o2: AUthor
+* :o2: Author missing
 * :o2: No need to use striikout for us, but you can use it for yourself
 * :o2: Abstract should be defined by now
 * :o2: Introduction is missing
