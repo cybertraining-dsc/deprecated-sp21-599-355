@@ -1,5 +1,12 @@
 # Project: Chat Bots in Customer Service.
 
+* :o2: AUthor
+* :o2: No need to use striikout for us, but you can use it for yourself
+* :o2: Abstract should be defined by now
+* :o2: Introduction is missing
+* :o2: Refernces shoudl be defined by now
+
+
 [![Check Report](https://github.com/cybertraining-dsc/sp21-599-355/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/sp21-599-355/actions)
 [![Status](https://github.com/cybertraining-dsc/sp21-599-355/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/sp21-599-355/actions)
 Status: final, Type: Project
@@ -11,7 +18,7 @@ Gregor von Laszewski, [sp21-599-355](https://github.com/cybertraining-dsc/sp21-5
 
 ## Abstract
 
-Her comes a short abstract of the project that summarizes what it is about
+Here comes a short abstract of the project that summarizes what it is about
 
 Contents
 
