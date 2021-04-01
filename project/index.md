@@ -1,4 +1,4 @@
-# Project: Chat Bots in Customer Service.
+# Project: Chat Bots in Customer Service
 
 * :o2: Author missing
 * :o2: No need to use striikout for us, but you can use it for yourself
