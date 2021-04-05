@@ -18,7 +18,7 @@ Anna Everett, [sp21-599-355](https://github.com/cybertraining-dsc/sp21-599-355/)
 
 ## Abstract
 
-~general idea: smaller scope create a algotithm that can recognize tone and use it to analyze how it impacts the effectiveness of the customer service. I don't know if this is easier or not
+~general idea: smaller scope create a algotithm that can recognize tone and use it to analyze how it impacts the effectiveness of the customer service. I don't know if this is easier or not~
 
 Here comes a short abstract of the project that summarizes what it is about
 
@@ -26,7 +26,7 @@ The recent increase in use of automated chat botsin customer service is a way fo
 
 But there are limitations. Most of what exists today are similar to that of a quiz with predefined questions with general and simple answers. Because of this, there are some that question the ability of AI to solve their problems. [^1]
 
-In this project I will use natural language processing to train a neural network using customer support conversations over twitter. This system will be able to recognize tone pogression over a conversational thread, which I will then use to find correlations between tone and effectiveness of the service.
+In this project natural language processing will be used to train a neural network using customer support conversations over twitter. This system will be able to recognize tone pogression over a conversational thread, which I will then use to find correlations between tone and effectiveness of the service.
 
 
 Contents
@@ -74,7 +74,7 @@ In addition to this, the character limit imposed by the platform, 140 characters
 
 ### 2.2 Pre Existing Efforts 
 
-On the website from which my datset has been made available users often submit their own code working with that particular dataset. For the dataset that I have chosen most of the corresponing uploaded code is related to the pre-processing stage. 
+On the website from which my datset has been made available users often submit their own code working with that particular dataset. For the dataset that has been chosen most of the corresponing uploaded code is related to the pre-processing stage. 
 
 TODO
 
