@@ -24,7 +24,7 @@ Here comes a short abstract of the project that summarizes what it is about
 
 The recent increase in use of automated chat botsin customer service is a way for companies to save both money and manpower. The chat bot chan be made available for 24/7 support, providing quick and ideally accurate answers without the need for an actual human on the other end. 
 
-But there are limitations. Most of what exists today are similar to that of a quiz with predefined questions with general and simple answers. Because of this, there are some that question the ability of AI to solve their problems [^1].
+But there are limitations. Most of what exists today are similar to that of a quiz with predefined questions with general and simple answers. Because of this, there are some that question the ability of AI to solve their problems[^1].
 
 In this project natural language processing will be used to train a neural network using customer support conversations over twitter. This system will be able to recognize tone pogression over a conversational thread, which can then be used to find correlations between tone and effectiveness of the service.
 
@@ -56,7 +56,7 @@ Please not ethat an up to date version of these instructions is available at
 
 Here comes a convincing introduction to the problem
 
-Due to the rise of automation in businesses a lot of what is being seen by the general public is their use of chat bots in customer service. A chatbot is a software that is able to communicate with humans in real time in response to questions or sentences [^2].
+Due to the rise of automation in businesses a lot of what is being seen by the general public is their use of chat bots in customer service. A chatbot is a software that is able to communicate with humans in real time in response to questions or sentences[^2].
 
 However, a concern for companies using chat bots is the communication and interaction with the humans on the other end of the bot. Bots are convenient because they don’t need to have off hours, making customer service available 24/7, and are capable of providing quick responses. 
 
@@ -68,7 +68,7 @@ But most bots are limited in their ability to engage with the customers due to t
 
 ### 2.1 The Dataset
 
-The dataset being used is from the kaggle online database and is called "Customer Support on Twitter" [^3]. 
+The dataset being used is from the kaggle online database and is called "Customer Support on Twitter"[^3]. 
 This dataset has been chosen because it is the most well suited for tone detection and monitoring. Because of Twitter's informality as a social media platform, conversations are more likley to be of natural and causal speech patterns[^3].
 In addition to this, the character limit imposed by the platform, 140 characters per tweet, both customers and company agents are required to give the most amount of information in the briefest amount of time. This should make it eaiser to detect and track tone. 
 
@@ -88,7 +88,7 @@ TODO
 
 ![Figure 1](https://github.com/cybertraining-dsc/fa20-523-314/raw/main/project/images/chart.png)
 
-**Figure 1:** Images can be included in the report, but if they are copied you must cite them [^1].
+**Figure 1:** Images can be included in the report, but if they are copied you must cite them[^1].
 
 ## 5. Datasets
 
@@ -99,7 +99,7 @@ the download function.
 
 ## 6. Benchmark
 
-Your project must include a benchmark. The easiest is to use cloudmesh-common [^4].
+Your project must include a benchmark. The easiest is to use cloudmesh-common[^4].
 
 ## 7. Conclusion
 
@@ -112,10 +112,10 @@ TODO
 
 ## 9. References
 
-[^1] Asbjørn Følstad, Cecilie Bertinussen Nordheim, Cato Bjørkli; What Makes users Trust A Chatbot for Customer Service?, [online research paper], <https://www.researchgate.net/publication/327839749_What_Makes_Users_Trust_a_Chatbot_for_Customer_Service_An_Exploratory_Interview_Study>
+[^1]: Asbjørn Følstad, Cecilie Bertinussen Nordheim, Cato Bjørkli; What Makes users Trust A Chatbot for Customer Service, [online research paper] <https://www.researchgate.net/publication/327839749_What_Makes_Users_Trust_a_Chatbot_for_Customer_Service_An_Exploratory_Interview_Study>
 
-[^2] Chat bot statistics, [online source], <https://www.superoffice.com/blog/live-chat-statistics/>
+[^2]: Chat bot statistics, [online source] <https://www.superoffice.com/blog/live-chat-statistics/>
 
-[^3] Kaggle, Customer Support on Twitter, [online resource], <https://www.kaggle.com/thoughtvector/customer-support-on-twitter/code>
+[^3]: Kaggle, Customer Support on Twitter, [online resource] <https://www.kaggle.com/thoughtvector/customer-support-on-twitter/code>
 
-[^4] Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] <https://github.com/cloudmesh/cloudmesh-common>
+[^4]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] <https://github.com/cloudmesh/cloudmesh-common>
