@@ -18,12 +18,9 @@ Anna Everett, [sp21-599-355](https://github.com/cybertraining-dsc/sp21-599-355/)
 
 ## Abstract
 
-<<<<<<< HEAD
-~general idea: smaller scope create a algotithm that can recognize tone and use it to analyze how it impacts the effectiveness of the customer service. I don't know if this is easier or not~
-=======
-Here comes a short abstract of the project that summarizes what it is about
->>>>>>> 6133bcb7960bb7b621364381a9300b794c76f550
+~general idea: smaller scope create a algotithm that can recognize tone and use it to analyze how it impacts the effectiveness of the customer service. I don't know if this is easier or not
 
+Here comes a short abstract of the project that summarizes what it is about
 
 The recent increase in use of automated chat botsin customer service is a way for companies to save both money and manpower. The chat bot chan be made available for 24/7 support, providing quick and ideally accurate answers without the need for an actual human on the other end. 
 
@@ -49,7 +46,7 @@ Contents
 4. Discussion 
 5. Conclusion
 
-**Keywords:** AI, chat bots, tone, nlp, twitter, customer service,   
+**Keywords:** AI, chat bots, tone, nlp, twitter, customer service. 
 
 ## 1. Introduction
 
@@ -71,8 +68,8 @@ But most bots are limited in their ability to engage with the customers due to t
 
 ### 2.1 The Dataset
 
-The dataset I am using is from the kaggle online database and is called "Customer Support on Twitter" [^3]. 
-I have chosen this dataset because it is the most well suited for tone detection and monitoring. Because of Twitter's informality as a social media platform, conversations are more likley to be of natural and causal speech patterns[^3]
+The dataset being used is from the kaggle online database and is called "Customer Support on Twitter" [^3]. 
+This dataset has been chosen because it is the most well suited for tone detection and monitoring. Because of Twitter's informality as a social media platform, conversations are more likley to be of natural and causal speech patterns[^3]
 In addition to this, the character limit imposed by the platform, 140 characters per tweet, both customers and company agents are required to give the most amount of information in the briefest amount of time. This should make it eaiser to detect and track tone. 
 
 ### 2.2 Pre Existing Efforts 
@@ -83,7 +80,7 @@ TODO
 
 ### 2.3 The Algorithm
 
-From the my research on what is commonly used when dealing with natural language processcing, I will be using a recurrent neural network to train my algorithm. 
+We will be using a recurrent neural network which has been found to be a common method used when dealing with natural language processing.
 
 TODO
 
@@ -119,10 +116,10 @@ Your report must include at least 6 references. Please use customary academic ci
 one point automatically change the references from superscript to square brackets it is best to introduce a space before 
 the first square bracket.
 
-[^1] Asbjørn Følstad, Cecilie Bertinussen Nordheim, Cato Bjørkli; What Makes users Trust A Chatbot for Customer Service?, [online research paper], https://www.researchgate.net/publication/327839749_What_Makes_Users_Trust_a_Chatbot_for_Customer_Service_An_Exploratory_Interview_Study
+[^1] Asbjørn Følstad, Cecilie Bertinussen Nordheim, Cato Bjørkli; What Makes users Trust A Chatbot for Customer Service?, [online research paper], <https://www.researchgate.net/publication/327839749_What_Makes_Users_Trust_a_Chatbot_for_Customer_Service_An_Exploratory_Interview_Study>
 
-[^2] Chat bot statistics, [online source], https://www.superoffice.com/blog/live-chat-statistics/
+[^2] Chat bot statistics, [online source], <https://www.superoffice.com/blog/live-chat-statistics/>
 
-[^3] Kaggle, Customer Support on Twitter, [online resource], https://www.kaggle.com/thoughtvector/customer-support-on-twitter/code
+[^3] Kaggle, Customer Support on Twitter, [online resource], <https://www.kaggle.com/thoughtvector/customer-support-on-twitter/code>
 
-[^1] Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] https://github.com/cloudmesh/cloudmesh-common
+[^1] Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] <https://github.com/cloudmesh/cloudmesh-common>
