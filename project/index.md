@@ -12,13 +12,25 @@
 Status: final, Type: Project
 
 
-Gregor von Laszewski, [sp21-599-355](https://github.com/cybertraining-dsc/sp21-599-355/), [Edit](https://github.com/cybertraining-dsc/sp21-599-355/blob/main/project/project.md)
+Anna Everett, [sp21-599-355](https://github.com/cybertraining-dsc/sp21-599-355/), [Edit](https://github.com/cybertraining-dsc/sp21-599-355/blob/main/project/project.md)
 
 {{% pageinfo %}}
 
 ## Abstract
 
+<<<<<<< HEAD
+~general idea: smaller scope create a algotithm that can recognize tone and use it to analyze how it impacts the effectiveness of the customer service. I don't know if this is easier or not~
+=======
 Here comes a short abstract of the project that summarizes what it is about
+>>>>>>> 6133bcb7960bb7b621364381a9300b794c76f550
+
+
+The recent increase in use of automated chat botsin customer service is a way for companies to save both money and manpower. The chat bot chan be made available for 24/7 support, providing quick and ideally accurate answers without the need for an actual human on the other end. 
+
+But there are limitations. Most of what exists today are similar to that of a quiz with predefined questions with general and simple answers. Because of this, there are some that question the ability of AI to solve their problems. [^1]
+
+In this project I will use natural language processing to train a neural network using customer support conversations over twitter. This system will be able to recognize tone pogression over a conversational thread, which I will then use to find correlations between tone and effectiveness of the service.
+
 
 Contents
 
@@ -26,7 +38,18 @@ Contents
 
 {{% /pageinfo %}}
 
-**Keywords:** tensorflow, example. 
+1. Introduction 
+2. Procedure
+
+    * Pre Existing Efforts
+    * The Dataset 
+    * The Algorithm
+
+3. Results 
+4. Discussion 
+5. Conclusion
+
+**Keywords:** AI, chat bots, tone, nlp, twitter, customer service,   
 
 ## 1. Introduction
 
@@ -36,84 +59,39 @@ Please not ethat an up to date version of these instructions is available at
 
 Here comes a convincing introduction to the problem
 
+Due to the rise of automation in businesses a lot of what is being seen by the general public is their use of chat bots in customer service. A chatbot is a software that is able to communicate with humans in real time in response to questions or sentences [^2].
 
-~Some study its in the links somewhere i will fix it when i find it~ found that customer satisfaction is generally higher when a more personalized website experience is given.
+However, a concern for companies using chat bots is the communication and interaction with the humans on the other end of the bot. Bots are convenient because they don’t need to have off hours, making customer service available 24/7, and are capable of providing quick responses. 
 
-The retention rate was ~in that same link~, with ~some number~ of surveyed participants saying they project themselves using ~personalized webstes?~ in the future [^1].
-
-
-Due to the rise of automation in buisnesses a lot of what is being seen by the general publc is their use of chat bots in customer service. A chatbot is a ~software?~ that is able to communicate with humans in real time in response to quesitons or scentences [^2].
-
-~chat bots are great bc they reduce the need for actual human resources in customer service, you dont have to pay them and the actual humans can be used for something else.~ 
-
-However a concern for companies using chatbots is the comunication and interaction with the humans on the other end of the bot. While bots are convieneint because they don't need to have off hours, making cusomer service available 24/7, most bots are limited to answering simple questions with general answers or solutions. 
-
-Not only that, few chat bots have the communication capabilites needed to give a personalized customer experience that a human agent can.
-
-In comparison, live chat services allow for easier communication and are deemed better equipped to handle more complex pnd in depth problems or questions. Both factors contributing to the personalized customer experience. 
+But most bots are limited in their ability to engage with the customers due to the necessity of generatability in the solutions.
 
 
+## 2. Procedure
 
-## 2. Report Format
 
-The report is written in (hugo) markdown and not commonmark. As such some features are not visible in GitHub. You can 
-set up hugo on your local computer if you want to see how it renders or commit and wait 10 minutes once your report is 
-bound into cybertraining.
+### 2.1 The Dataset
 
-It is to be noted that markdown works best if you include an empty line before and after each context change. 
-Thus the following is wrong:
+The dataset I am using is from the kaggle online database and is called "Customer Support on Twitter" [^3]. 
+I have chosen this dataset because it is the most well suited for tone detection and monitoring. Because of Twitter's informality as a social media platform, conversations are more likley to be of natural and causal speech patterns[^3]
+In addition to this, the character limit imposed by the platform, 140 characters per tweet, both customers and company agents are required to give the most amount of information in the briefest amount of time. This should make it eaiser to detect and track tone. 
 
-```
-# This is My Headline
-This author does ignore proper markdown while not using empty lines between context changes
-1. This is because this author ignors all best practices
-```
+### 2.2 Pre Existing Efforts 
 
-Instead, this should be 
+On the website from which my datset has been made available users often submit their own code working with that particular dataset. For the dataset that I have chosen most of the corresponing uploaded code is related to the pre-processing stage. 
 
-```
-# This is My Headline
+TODO
 
-We do not ignore proper markdown while using empty lines between context changes
+### 2.3 The Algorithm
 
-1. This is because we encourage best practices to cause issues.
-```
+From the my research on what is commonly used when dealing with natural language processcing, I will be using a recurrent neural network to train my algorithm. 
 
-## 2.1. GitHub Actions
-
-When going to GitHub Actions you will see a report is autmatically generated with some help on improving your markdown. 
-We will not review any document that does not pass this check.
-
-## 2.2. PAst Copy from Word or other Editors is a Disaster!
-
-We recommend that you sue a proper that is integrated with GitHub or you use the commandline tools. We may include 
-comments into your document that you will have to fix, If you juys past copy you will 
-
-1. Not learn how to use GitHub properly and we deduct points
-2. Overwrite our coments that you than may miss and may result in point deductions as you have not addressed them.
-
-## 2.3. Report or Project
-
-You have two choices for the final project. 
-
-1. Project, That is a final report that includes code.
-2. Report, that is a final project without code.
-
-YOu will be including the type of the project as a prefix to your title, as well as in the Type tag
-at the beginning of your project.
+TODO
 
 ## 3. Using Images
 
 ![Figure 1](https://github.com/cybertraining-dsc/fa20-523-314/raw/main/project/images/chart.png)
 
 **Figure 1:** Images can be included in the report, but if they are copied you must cite them [^1].
-
-## 4. Using itemized lists only where needed
-
-Remember this is not a powerpoint presentation, but a report so we recommend
-
-1. Use itemized or enumeration lists sparingly
-2. When using bulleted lists use * and not - 
 
 ## 5. Datasets
 
@@ -124,15 +102,16 @@ the download function.
 
 ## 6. Benchmark
 
-Your project must include a benchmark. The easiest is to use cloudmesh-common [^2]
+Your project must include a benchmark. The easiest is to use cloudmesh-common [^4]
  
 ## 6. Conclusion
 
-A convincing but not fake conclusion should summarize what the conclusion of the project is.
+TODO
 
 ## 8. Acknowledgments
 
 Please add acknowledgments to all that contributed or helped on this project.
+TODO
 
 ## 9. References
 
@@ -140,10 +119,10 @@ Your report must include at least 6 references. Please use customary academic ci
 one point automatically change the references from superscript to square brackets it is best to introduce a space before 
 the first square bracket.
 
-[^1]: Use of energy explained - Energy use in homes, [Online resource] 
-      <https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php>
+[^1] Asbjørn Følstad, Cecilie Bertinussen Nordheim, Cato Bjørkli; What Makes users Trust A Chatbot for Customer Service?, [online research paper], https://www.researchgate.net/publication/327839749_What_Makes_Users_Trust_a_Chatbot_for_Customer_Service_An_Exploratory_Interview_Study
 
+[^2] Chat bot statistics, [online source], https://www.superoffice.com/blog/live-chat-statistics/
 
-[^2]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
-      <https://github.com/cloudmesh/cloudmesh-common>
+[^3] Kaggle, Customer Support on Twitter, [online resource], https://www.kaggle.com/thoughtvector/customer-support-on-twitter/code
 
+[^1] Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] https://github.com/cloudmesh/cloudmesh-common
