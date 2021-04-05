@@ -101,7 +101,7 @@ the download function.
 
 Your project must include a benchmark. The easiest is to use cloudmesh-common [^4].
 
-## 6. Conclusion
+## 7. Conclusion
 
 TODO
 
@@ -111,10 +111,6 @@ Please add acknowledgments to all that contributed or helped on this project.
 TODO
 
 ## 9. References
-
-Your report must include at least 6 references. Please use customary academic citation and not just URLs. As we will at 
-one point automatically change the references from superscript to square brackets it is best to introduce a space before 
-the first square bracket.
 
 [^1] Asbjørn Følstad, Cecilie Bertinussen Nordheim, Cato Bjørkli; What Makes users Trust A Chatbot for Customer Service?, [online research paper], <https://www.researchgate.net/publication/327839749_What_Makes_Users_Trust_a_Chatbot_for_Customer_Service_An_Exploratory_Interview_Study>
 
