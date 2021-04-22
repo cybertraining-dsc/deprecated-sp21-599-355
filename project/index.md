@@ -12,7 +12,7 @@
 Status: in progress, Type: Project
 
 
-Anna Everett, [sp21-599-355](https://github.com/cybertraining-dsc/sp21-599-355/), [Edit](https://github.com/cybertraining-dsc/sp21-599-355/blob/main/project/project.md)
+Anna Everett, [sp21-599-355](https://github.com/cybertraining-dsc/sp21-599-355/), [Edit](https://github.com/cybertraining-dsc/sp21-599-355/blob/main/project)
 
 {{% pageinfo %}}
 
